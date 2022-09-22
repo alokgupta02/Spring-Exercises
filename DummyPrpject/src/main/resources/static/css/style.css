@@ -1,0 +1,9 @@
+#sidebar{
+	width:15%;
+	height: 92%;
+	position: fixed;
+}
+
+.content{
+	margin-left: 20%;
+}
